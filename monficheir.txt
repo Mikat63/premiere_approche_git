@@ -1,3 +1,8 @@
 Hello world.
 It's a god day.
+<<<<<<< HEAD
 Soon it's christmas.
+=======
+Soon it's christmas.
+Test in my_new_branch
+>>>>>>> my_new_branch
