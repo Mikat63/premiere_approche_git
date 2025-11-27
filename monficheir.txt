@@ -6,3 +6,5 @@ Soon it's christmas.
 Soon it's christmas.
 Test in my_new_branch
  my_new_branch
+
+test in the second clone repository.
